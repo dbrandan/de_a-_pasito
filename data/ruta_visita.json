@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1 ,
+        "nombre": "   ",
+        "destino": "1,3,5"
+       
+    },
+    {
+        "id": 1 ,
+        "nombre": "   ",
+        "destino": "2,4"
+    },
+    {
+        "id": 1 ,
+        "nombre": "   ",
+        "destino": "1,2,3"
+    },
+    {
+        "id": 1 ,
+        "nombre": "   ",
+        "destino": "4,5,"
+    },
+    {
+        "id": 1 ,
+        "nombre": "   ",
+        "destino": "3,4"
+    }
+]

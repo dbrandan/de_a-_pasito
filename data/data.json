@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1 ,
+        "nombre": "RPG",
+        "artista": "PC, PS4, Xbox One",
+        "genero": "2015",
+        "id_ubicacion": 1,
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "descripcion" : " bla bla bla",
+        "imagen": "foto"
+    },
+    {
+        "id": 1 ,
+        "nombre": "RPG",
+        "artista": "PC, PS4, Xbox One",
+        "genero": "2015",
+        "id_ubicacion": 1,
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "descripcion" : " bla bla bla",
+        "imagen": "foto"
+    },
+    {
+        "id": 1 ,
+        "nombre": "RPG",
+        "artista": "PC, PS4, Xbox One",
+        "genero": "2015",
+        "id_ubicacion": 1,
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "descripcion" : " bla bla bla",
+        "imagen": "foto"
+    },
+    {
+        "id": 1 ,
+        "nombre": "RPG",
+        "artista": "PC, PS4, Xbox One",
+        "genero": "2015",
+        "id_ubicacion": 1,
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "descripcion" : " bla bla bla",
+        "imagen": "foto"
+    },
+    {
+        "id": 1 ,
+        "nombre": "RPG",
+        "artista": "PC, PS4, Xbox One",
+        "genero": "2015",
+        "id_ubicacion": 1,
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "descripcion" : " bla bla bla",
+        "imagen": "foto"
+    }
+]
