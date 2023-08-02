@@ -26,4 +26,6 @@ class Usuario:
         historial_de_eventos = data ["historial_de_eventos"]
         return cls(id, nombre, apellido, historial_de_eventos)
 
+
+class nuevo_usuario
         
