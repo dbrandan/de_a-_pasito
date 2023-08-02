@@ -21,7 +21,7 @@ def login():
     else:
         label_status.config(text="Nombre de usuario o contraseña incorrectos", fg="red")
 
-# Función para mostrar la interfaz de usuario
+# Función para mostrar la interfaz de usuarios
 def show_user_interface():
     # Ocultar widgets de inicio de sesión y registro
     frame.pack_forget()
