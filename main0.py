@@ -7,7 +7,7 @@ root.title     ("App music Desapacito")
 frame = tk.Frame(root).pack()
 # modificar a grid de ser necesario
 # armar dos botonoes registro y logeo
-boton1 = tk.Button(frame, text= "registro usuario",justify=["left"]).pack()
+boton1 = tk.Button(frame, text= "registro usuario").pack()
 
-boton2 = tk.Button(frame, text= "Acceso  usuario",justify=["right"],command=).pack()
+boton2 = tk.Button(frame, text= "Acceso  usuario").pack()
 root.mainloop()
