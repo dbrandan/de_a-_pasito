@@ -1,6 +1,7 @@
 import customtkinter as ctK
-from PIL import Image
 from controllers.registro_usuario import Registro
+from PIL import Image
+
 
 import os
 
